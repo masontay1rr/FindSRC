@@ -5,7 +5,7 @@ SRC Finder Bookmarklet is a handy tool that adds a button to web pages, allowing
 ## Table of Contents
 
 - [Installation](#installation)
-  - [Method 1: Drag and Drop](#method-1-drag-and-drop)
+  - [Method 1: Search Bar](#method-1-search-bar)
   - [Method 2: Manual Bookmark Creation](#method-2-manual-bookmark-creation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -15,7 +15,7 @@ SRC Finder Bookmarklet is a handy tool that adds a button to web pages, allowing
 
 You can add the SRC Finder Bookmarklet to your browser in two different ways:
 
-### Method 1: Drag and Drop
+### Method 1: Search Bar
 
 1. Copy the code form FindSRC.JS 
 2. Go to the Website you want to use it in
@@ -26,7 +26,7 @@ You can add the SRC Finder Bookmarklet to your browser in two different ways:
 
 1. Create a new bookmark in your browser (you can bookmark any page).
 2. Edit the bookmark and give it a name, for example, "Find SRC Bookmarklet."
-3. In the URL or Location field of the bookmark, paste the JavaScript code from the FindSRC.js
+3. In the URL or Location field of the bookmark, type "javascript:" paste the JavaScript code from the FindSRC.js
 4. Save the bookmark.
 5. It's now ready for use!
 
